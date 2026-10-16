@@ -48,8 +48,12 @@ window.SCHOOLS=[
 ['Washington and Lee University','VA','ED I 11/1 · ED II/RD 1/1','Fall 2027 test-optional','소규모 Physics, 학부 교수 접근성','Philosophy major와 복수전공 친화','Need-based aid + Johnson merit 별도; 단일 income cutoff보다 개별 need 산정','review_pending'],
 ['Emory University','GA','ED I 11/1 · ED II 1/1 · RD 1/1; decisions by 12/15 · 2/15 · 4/1','Fall 2027 SAT/ACT 정책은 아직 별도 공식 발표 확인 필요','Physics + biophysics/materials, interdisciplinary','Philosophy major와 병행 가능','Emory Advantage Plus: family income ≤$200K tuition-free starting Fall 2026; Fall 2027 aid deadlines ED I 12/2 · ED II 1/6 · RD 2/10','review_pending'],
 ['Boston University','MA','ED I 11/1 · ED II/RD 1/5','Fall 2027 testing 정책 공식 페이지 최종 확인','Physics + photonics/particle/condensed matter','Philosophy major/minor와 병행','Aid priority: ED 11/1 · ED II/RD 1/5; need-based aid 개별 산정','review_pending'],
-['William & Mary','VA','ED I 11/1 · ED II 1/5 · RD 1/5; RD decision by 4/1','Test-optional indefinitely','학부 중심 Physics + Jefferson Lab 접근','Philosophy major와 liberal arts 조합','2027-28 FAFSA+CSS: ED I priority 11/15 · ED II 1/15 · RD 2/1; need-based aid 개별 산정','review_pending']
+['William & Mary','VA','ED I 11/1 · ED II 1/5 · RD 1/5; RD decision by 4/1','Test-optional indefinitely','학부 중심 Physics + Jefferson Lab 접근','Philosophy major와 liberal arts 조합','2027-28 FAFSA+CSS: ED I priority 11/15 · ED II 1/15 · RD 2/1; need-based aid 개별 산정','review_pending'],
+['UC Irvine','CA','UC 10/1–11/30','UC test-free','Physics 전공 제공 · 분야별 세부정보 확인 예정','Philosophy 전공 및 교과과정 세부 확인 예정','2027–28 비용 및 재정보조 세부 검증 예정','review_pending'],
+['UC Davis','CA','UC 10/1–11/30','UC test-free','Physics 전공 제공 · 분야별 세부정보 확인 예정','Philosophy 전공 및 교과과정 세부 확인 예정','2027–28 비용 및 재정보조 세부 검증 예정','review_pending'],
+['UC Santa Cruz','CA','UC 10/1–11/30','UC test-free','Physics 전공 제공 · 분야별 세부정보 확인 예정','Philosophy 전공 및 교과과정 세부 확인 예정','2027–28 비용 및 재정보조 세부 검증 예정','review_pending']
 ];
+window.CONFIRMED_SCHOOLS=['University of Chicago','UC Berkeley','UCLA','UC San Diego','UC Irvine','UC Davis','UC Santa Barbara','UC Santa Cruz'];
 window.AID_HIGHLIGHTS=[
 ['MIT','<$100K: parent contribution $0 · <$200K: tuition-free','typical assets 기준'],
 ['Harvard','≤$100K: billed costs 전액 · ≤$200K: 최소 tuition 전액','typical assets 기준'],
